@@ -1,0 +1,1 @@
+{"header":{"operator":"","version":""},"body":{"data":{"host":"127.0.0.1","port":20,"username":"jackson","password":"jackson","cmd":"ls -al /tmp"}}}

@@ -1,0 +1,44 @@
+[I 171129 11:37:15 web:2063] 200 GET / (127.0.0.1) 2.21ms
+[W 171129 11:37:15 web:2063] 404 GET /favicon.ico (127.0.0.1) 6.18ms
+[W 171129 11:37:17 web:2063] 404 GET // (127.0.0.1) 0.64ms
+[I 171129 11:37:22 web:2063] 304 GET / (127.0.0.1) 0.63ms
+[I 171129 11:37:22 web:2063] 304 GET / (127.0.0.1) 0.46ms
+[I 171129 11:37:25 web:2063] 304 GET / (127.0.0.1) 0.47ms
+[W 171129 11:37:26 web:2063] 404 GET /api (127.0.0.1) 0.58ms
+[I 171129 11:37:27 web:2063] 200 GET /api/checkport (127.0.0.1) 0.55ms
+[I 171129 11:37:28 web:2063] 304 GET /api/checkport (127.0.0.1) 0.52ms
+[I 171129 12:52:34 web:2063] 304 GET /api/checkport (127.0.0.1) 0.63ms
+[I 171129 12:52:36 web:2063] 200 GET /api/cmd (127.0.0.1) 0.50ms
+[I 171129 12:53:20 web:2063] 304 GET /api/cmd (127.0.0.1) 0.52ms
+[I 171129 12:53:21 web:2063] 200 GET /api/file (127.0.0.1) 0.52ms
+[I 171129 12:53:21 web:2063] 304 GET /api/file (127.0.0.1) 0.49ms
+[I 171129 12:53:30 web:2063] 200 POST /api/file (127.0.0.1) 16.51ms
+[I 171129 14:21:01 autoreload:198] main.py modified; restarting server
+[I 171129 14:21:51 autoreload:198] /Users/jackson/Documents/shareFile/tornado_proj/libs/log.py modified; restarting server
+[I 171129 14:24:45 autoreload:198] /Users/jackson/Documents/shareFile/tornado_proj/libs/log.py modified; restarting server
+[I 171129 14:26:12 autoreload:198] /Users/jackson/Documents/shareFile/tornado_proj/libs/log.py modified; restarting server
+[I 171129 14:26:23 autoreload:198] /Users/jackson/Documents/shareFile/tornado_proj/libs/log.py modified; restarting server
+[I 171129 14:26:28 autoreload:198] /Users/jackson/Documents/shareFile/tornado_proj/libs/log.py modified; restarting server
+[I 171129 14:26:30 autoreload:198] /Users/jackson/Documents/shareFile/tornado_proj/libs/log.py modified; restarting server
+[I 171129 14:27:23 autoreload:198] main.py modified; restarting server
+[I 171129 14:30:03 autoreload:198] main.py modified; restarting server
+Exception: 'function' object has no attribute 'write'
+Exception: 'function' object has no attribute 'write'
+Exception: 'function' object has no attribute 'write'
+Exception: 'function' object has no attribute 'write'
+Exception: 'function' object has no attribute 'write'
+[D 171129 14:51:53 log:77] [main.py:<module>: 37]start server...
+[D 171129 14:51:53 log:77] [main.py:<module>: 47]listen on port 8000...
+[I 171129 14:52:30 web:2063] 200 GET /api/file (127.0.0.1) 3.89ms
+[I 171129 14:52:30 web:2063] 304 GET /api/cmd (127.0.0.1) 0.59ms
+[I 171129 14:52:38 web:2063] 304 GET /api/checkport (127.0.0.1) 0.81ms
+[I 171129 14:52:39 web:2063] 304 GET /api/checkport (127.0.0.1) 0.51ms
+[I 171129 14:56:20 autoreload:198] /Users/jackson/Documents/shareFile/tornado_proj/controller/checkport_handler.py modified; restarting server
+[D 171129 14:56:20 log:77] [main.py:<module>: 37]start server...
+[D 171129 14:56:20 log:77] [main.py:<module>: 47]listen on port 8000...
+[I 171129 14:57:28 autoreload:198] /Users/jackson/Documents/shareFile/tornado_proj/controller/checkport_handler.py modified; restarting server
+[D 171129 14:57:29 log:77] [main.py:<module>: 37]start server...
+[D 171129 14:57:29 log:77] [main.py:<module>: 47]listen on port 8000...
+[D 171129 14:58:41 log:77] [web.py:_execute:1509][CheckPortHandler][post]start process...
+[I 171129 14:58:43 web:2063] 200 POST /api/checkport (127.0.0.1) 2109.77ms
+[W 171130 09:42:07 web:2063] 404 GET /django_admin/ (127.0.0.1) 6.40ms
